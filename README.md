@@ -1,2 +1,3 @@
 # Amazon-Reviews-Sentiment-Analysis
-In this project I've performed a Sentiment Analysis on Amazon Alexa's customer reviews using python.
+Applied Sentiment Analysis on Amazon Alexa's customer reviews using python.
+![Alexa](https://logosmarcas.net/wp-content/uploads/2021/03/Alexa-Logo.png)
